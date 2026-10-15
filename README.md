@@ -31,6 +31,11 @@ codex-xiayan-pet/
 
 5. 打开 Codex，在桌宠选择界面中找到「夏彦」并选择。如果没有显示，尝试退出并重新打开 Codex。
 
+## 效果演示
+
+https://github.com/user-attachments/assets/bbbb1c56-d5f5-4e5a-adae-c9a52412d272
+
+
 ## 常见问题
 
 ### 为什么找不到相关文件？
