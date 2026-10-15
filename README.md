@@ -33,8 +33,7 @@ codex-xiayan-pet/
 
 ## 效果演示
 
-https://github.com/user-attachments/assets/bbbb1c56-d5f5-4e5a-adae-c9a52412d272
-
+https://github.com/user-attachments/assets/0623b5f6-c897-4890-a7c3-a92916842977
 
 ## 常见问题
 
